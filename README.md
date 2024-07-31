@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Youssef Baghrous and I'm a full stack dev , from Morocco </h2>
+﻿<h2 align="left">Hi 👋! My name is Youssef Baghrous and I'm a full stack dev </h2>
 
 ###
 
